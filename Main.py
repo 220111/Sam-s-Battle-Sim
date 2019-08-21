@@ -141,7 +141,6 @@ def game():
       time.sleep(1)
       print("A monster approaches")
       mone = 3
-      monimg()
       one()
     else:
       sys.exit()
